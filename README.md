@@ -2,6 +2,10 @@
 
 Servidor MCP (Model Context Protocol) que fornece informações sobre o clima dos Estados Unidos.
 
+<a href="https://glama.ai/mcp/servers/@FelipeCararo/mcp-intro">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@FelipeCararo/mcp-intro/badge" alt="US Weather Server MCP server" />
+</a>
+
 ## 📋 Pré-requisitos
 
 - Node.js (versão 14 ou superior)
